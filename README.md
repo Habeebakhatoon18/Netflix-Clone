@@ -1,7 +1,5 @@
 # Netflix-Clone
 
-![Netflix Clone](screenshot.png)
-
 ## Description
 This project is a Netflix clone built using HTML and CSS. It replicates the landing page of Netflix, showcasing popular movies and TV shows.
 
