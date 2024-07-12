@@ -1,7 +1,7 @@
 # Netflix-Clone
 
 ## You can visit the site here  
-https://clone1-habeeba-khatoon18.netlify.app
+https://cloneproject1-habeebakhatoon18.vercel.app/
 
 ## Description
 This project is a Netflix clone built using HTML and CSS. It replicates the landing page of Netflix, showcasing popular movies and TV shows.
